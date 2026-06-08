@@ -2,7 +2,7 @@
 
 **Can publicly available NFL metrics predict spread outcomes profitably?**
 
-This project investigates whether freely available data — team efficiency metrics, weather, rest, and opening line movement — contains information not already priced into NFL betting spreads. It is framed as a **market efficiency study**, not a prediction tool. The null result is the finding.
+This project investigates whether freely available data, including team efficiency metrics, weather, rest, and opening line movement, contains info that is not already priced into NFL betting spreads. It is framed as a **market efficiency study**, not a prediction tool. The null result is the finding.
 
 Built with Python, scikit-learn, and `nfl_data_py`. Analysis covers 2010–2024 regular season (3,840+ games).
 
