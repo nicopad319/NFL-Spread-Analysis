@@ -1,0 +1,19 @@
+# SBR Excel files (manually compiled, not redistributable)
+sbr_data/
+
+# nfl_data_py cache
+*.csv
+nfl_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
